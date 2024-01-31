@@ -26,6 +26,8 @@ I am currently working on freelancer
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) --> 👋 Hi, I’m @dhanushkumar-amk
 
+[![](https://visitcount.itsvg.in/api?id=Dhanushkumar-amk&label=Profile%20Views&color=12&icon=2&pretty=false)](https://visitcount.itsvg.in)
+
 - ⚡ Fun fact: ...
 
 <!---
