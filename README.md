@@ -5,7 +5,7 @@ I'm a 19-year-old developer based in India, and I'm very passionate and dedicate
 
 - Check out my [website](https://dhanushkumar-portfolio.netlify.app/) to learn more about me.
 - Explore my [blog](https://mirayatech.hashnode.dev/?source=top_nav_blog_home) where I share insights and learnings.
-- Check out [VSCode Configuration]([https://github.com/mirayatech/vscode-settings](https://github.com/dhanushkumar-amk/MY-VS-Code-settings)) for development optimization.
+- Check out [VSCode Configuration](https://github.com/dhanushkumar-amk/MY-VS-Code-settings) for development optimization.
 - In my [Newsletter](), I share my learnings and tips to become a better developer. 
  
 ## 📦 Toolbox
@@ -26,7 +26,7 @@ I'm a 19-year-old developer based in India, and I'm very passionate and dedicate
 
 ## 📫 Contact
 
- For a quick response, DM me on [LinkedIn](www.linkedin.com/in/dhanushkumar-amk). 
+ For a quick response, DM me on [LinkedIn](https://www.linkedin.com/in/dhanushkumar-amk/). 
  
 
 <h3 align="left">Stars</h3>
