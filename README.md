@@ -7,7 +7,7 @@ I'm a 19-year-old developer based in India, and I'm very passionate and dedicate
 - ✅ Explore my [blog](https://mirayatech.hashnode.dev/?source=top_nav_blog_home) where I share insights and learnings.
 - 🖥️ Check out [VSCode Configuration](https://github.com/dhanushkumar-amk/MY-VS-Code-settings) for development optimization.
 - 📖 I'm currently learning:  `Data Structures and Algorithms` and  `MERN Stack`
-  -  on [LeetCode](https://leetcode.com/u/dhanushkumar-amk/)
+
  
 
 ## 📦 Toolbox
@@ -18,7 +18,7 @@ I'm a 19-year-old developer based in India, and I'm very passionate and dedicate
 
 **Language:** `JavaScript` `Java` `SQl` `MongoDB` `Basic-Go`
 
-**Others:**  `Ms Office` `Notion` `Canva` `Figma`
+**Others:**  `Ms Office` `Notion` `Canva` `Figma` 
  
 ## ✨ Fun Facts 
 
@@ -30,6 +30,7 @@ I'm a 19-year-old developer based in India, and I'm very passionate and dedicate
 
 -  For a quick response, DM me on [LinkedIn](https://www.linkedin.com/in/dhanushkumar-amk/). 
 -  How to reach me: [dhanushkumaramk@gmail.com](mailto:dhanushkumaramk@gmail.com)
+-  on [LeetCode](https://leetcode.com/u/dhanushkumar-amk/)
  
  
 
