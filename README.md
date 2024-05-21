@@ -13,7 +13,7 @@ I'm a 19-year-old developer based in India, and I'm very passionate and dedicate
  
 
 ## 📦 Toolbox
-
+<div align="center">
 **Frontend Development:** `HTML` `CSS` `JavaScript` `Tailwind` `React` 
  
 **Version Control:** `Git` `Github`  
@@ -21,7 +21,7 @@ I'm a 19-year-old developer based in India, and I'm very passionate and dedicate
 **Language:** `JavaScript` `Java` `SQl` `MongoDB` `Basic-Go`
 
 **Others:**  `Ms Office` `Notion` `Canva` `Figma` 
- 
+ </div>
 ## ✨ Fun Facts 
 
 - Pokemon is my favorite anime.
