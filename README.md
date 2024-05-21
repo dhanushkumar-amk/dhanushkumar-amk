@@ -1,7 +1,9 @@
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+;+I'm+Dhanushkumar!;" />
 </h1>
-### Hey, I'm DhanushKumar 👋🏽  
+
+
+## 🙌 About Me
 
 I'm a 19-year-old developer based in India, and I'm very passionate and dedicated to my work.
 
@@ -23,9 +25,9 @@ I'm a 19-year-old developer based in India, and I'm very passionate and dedicate
 
 ## ✨ Fun Facts 
 
-- Pokemon is my favorite anime.
-- As a kid, I wanted to be an astronaut.
-- I love using Mac after switching from Linux.
+- 🦖 Pokemon is my favorite anime.
+- 🫡 As a kid, I wanted to be an Gamer.
+- ⚡ Fun fact Bugs can cause big problems! A single misplaced semicolon took down the Mariner 1 space probe in 1964
 
 ## 📫 Contact
 
