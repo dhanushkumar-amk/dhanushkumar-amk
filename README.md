@@ -1,4 +1,6 @@
-
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+;+I'm+Dhanushkumar!;" />
+</h1>
 ### Hey, I'm DhanushKumar 👋🏽  
 
 I'm a 19-year-old developer based in India, and I'm very passionate and dedicated to my work.
