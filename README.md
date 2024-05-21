@@ -11,9 +11,9 @@ I'm a 19-year-old developer based in India, and I'm very passionate and dedicate
 - 📖 I'm currently learning:  `Data Structures and Algorithms` and  `MERN Stack`
 
  
-
-## 📦 Toolbox
 <div align="center">
+## 📦 Toolbox
+
 **Frontend Development:** `HTML` `CSS` `JavaScript` `Tailwind` `React` 
  
 **Version Control:** `Git` `Github`  
@@ -21,7 +21,7 @@ I'm a 19-year-old developer based in India, and I'm very passionate and dedicate
 **Language:** `JavaScript` `Java` `SQl` `MongoDB` `Basic-Go`
 
 **Others:**  `Ms Office` `Notion` `Canva` `Figma` 
- </div>
+</div>
 ## ✨ Fun Facts 
 
 - Pokemon is my favorite anime.
