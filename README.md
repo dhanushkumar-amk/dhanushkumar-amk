@@ -10,8 +10,7 @@ I'm a 19-year-old developer based in India, and I'm very passionate and dedicate
 - 🖥️ Check out [VSCode Configuration](https://github.com/dhanushkumar-amk/MY-VS-Code-settings) for development optimization.
 - 📖 I'm currently learning:  `Data Structures and Algorithms` and  `MERN Stack`
 
- 
-<div align="center">
+
 ## 📦 Toolbox
 
 **Frontend Development:** `HTML` `CSS` `JavaScript` `Tailwind` `React` 
@@ -21,7 +20,7 @@ I'm a 19-year-old developer based in India, and I'm very passionate and dedicate
 **Language:** `JavaScript` `Java` `SQl` `MongoDB` `Basic-Go`
 
 **Others:**  `Ms Office` `Notion` `Canva` `Figma` 
-</div>
+
 ## ✨ Fun Facts 
 
 - Pokemon is my favorite anime.
