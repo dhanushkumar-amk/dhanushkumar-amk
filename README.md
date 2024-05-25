@@ -19,7 +19,7 @@ I'm a 19-year-old developer based in India, and I'm very passionate and dedicate
  
 **Version Control:** `Git` `Github`  
 
-**Language:** `JavaScript` `Java` `SQl` `MongoDB` `Basic-Go`
+**Language:** `JavaScript` `Java` `SQl` `MongoDB` `Basic-Go` `mongoose` 
 
 **Others:**  `Ms Office` `Notion` `Canva` `Figma` 
 
