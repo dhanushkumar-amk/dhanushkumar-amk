@@ -8,20 +8,19 @@
 I'm a 19-year-old developer based in India, and I'm very passionate and dedicated to my work.
 
 - 🌐 Check out my [website](https://dhanushkumar-portfolio.netlify.app/) to learn more about me.
-- ✅ Explore my [blog](https://mirayatech.hashnode.dev/?source=top_nav_blog_home) where I share insights and learnings.
 - 🖥️ Check out [VSCode Configuration](https://github.com/dhanushkumar-amk/MY-VS-Code-settings) for development optimization.
-- 📖 I'm currently learning:  `Data Structures and Algorithms` and  `MERN Stack`
+- 📖 I'm currently learning:  `Data Structures and Algorithms` |  `MERN Stack` | `Next js`
 
 
 ## 📦 Toolbox
 
 **Frontend Development:** `HTML` `CSS` `JavaScript` `Tailwind` `React` 
  
-**Version Control:** `Git` `Github`  
+**IDE'S:**  `VS Code` `Intellij Idea` `mongoose shell`  
 
-**Language:** `JavaScript` `Java` `SQl` `MongoDB` `Basic-Go` `mongoose` 
+**Language:** `JavaScript` `Java`  `MongoDB` `Basic-Go` `mongoose` 
 
-**Others:**  `Ms Office` `Notion` `Canva` `Figma` 
+**Others:**  `Ms Office` `Notion` `Canva` `Figma` `Git` `Github`
 
 ## ✨ Fun Facts 
 
