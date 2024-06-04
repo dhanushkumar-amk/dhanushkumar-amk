@@ -16,7 +16,7 @@ I'm a 19-year-old developer based in India, and I'm very passionate and dedicate
 
 **Frontend Development:** `HTML` `CSS` `JavaScript` `Tailwind` `React` 
 
-**Language:** `JavaScript` `Java`  `MongoDB`  `mongoose` 
+**Language:** `JavaScript` `Java`  `MongoDB`  `mongoose` `Go`
  
 **IDE'S:**  `VS Code` `Intellij Idea` `mongoose shell`  
 
