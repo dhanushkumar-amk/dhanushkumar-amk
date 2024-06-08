@@ -9,14 +9,14 @@ I'm a 19-year-old developer based in India, and I'm very passionate and dedicate
 
 - 🌐 Check out my [website](https://dhanushkumar-portfolio.vercel.app/#) to learn more about me.
 - 🖥️ Check out [VSCode Configuration](https://github.com/dhanushkumar-amk/MY-VS-Code-settings) for development optimization.
-- 📖 I'm currently learning:  `Data Structures and Algorithms` |  `MERN Stack` | `Next js`
+- 📖 I'm currently learning:  `Data Structures and Algorithms` |  `MERN Stack` 
 
 
 ## 📦 Toolbox
 
 **Web Development:** `HTML` `CSS` `JavaScript` `Tailwind` `React` `Node js` `Express js`  `mongoose` 
 
-**Language:** `JavaScript` `Java`  `MongoDB` `Go` 
+**Language:** `JavaScript` `Java`  `MongoDB` `Go` `TypeScript`
  
 **IDE'S:**  `VS Code` `Intellij Idea` `mongoose shell`  
 
