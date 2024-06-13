@@ -18,7 +18,7 @@ I'm a 19-year-old developer based in India, and I'm very passionate and dedicate
 
 **Language:** `JavaScript` `Java`  `MongoDB` `Go` `TypeScript`
  
-**IDE'S:**  `VS Code` `Intellij Idea` `mongoose shell`  
+**IDE'S:**  `VS Code` `Intellij Idea` `mongoose shell` `Project IDX` 
 
 **Others:**  `Ms Office` `Notion` `Canva` `Figma` `Git` `Github`
 
