@@ -5,7 +5,7 @@
 
 ## 🙌 About Me.
 
-I'm a 19-year-old developer based in India, and I'm very passionate and dedicated to my work.
+I'm a 19-year-old developer based in India, and I'm very passionate and dedicated to my work
 
 - 🌐 Check out my [website](https://dhanushkumar-portfolio.vercel.app/#) to learn more about me.
 - 🖥️ Check out [VSCode Configuration](https://github.com/dhanushkumar-amk/MY-VS-Code-settings) for development optimization.
