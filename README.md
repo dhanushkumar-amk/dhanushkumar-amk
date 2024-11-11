@@ -35,7 +35,8 @@ further hone my skills
 
 <h3 style="text-decoration : underline"> My Tech Stack for development : </h3>
 
-<p align="center">
+<p >
+    
 <strong>Web Development:</strong> <code>HTML</code>, <code>CSS</code>, <code>JavaScript</code>, <code>Tailwind CSS</code>, <code>React</code>, <code>Node.js</code>, <code>Express.js</code>, <code>Mongoose</code><br><br>
 
 <strong>Languages:</strong> <code>JavaScript</code>, <code>Java</code>, <code>MongoDB</code>, <code>Go</code>, <code>TypeScript</code><br><br>
