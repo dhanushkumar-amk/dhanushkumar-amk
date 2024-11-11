@@ -1,53 +1,84 @@
-<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+;+I'm+Dhanushkumar!;" />
+<h1 align="center" style="color:#ffff" >
+DHANUSHKUMAR G
 </h1>
+    
+
+---
+
+### Self Introduction :
+<p style="font-weight: bold; text-align: justify;">
+Hello! I’m Dhanushkumar, a BCA student at NGM College with expertise in
+the MERN stack and over 50 completed projects in web development.
+I’m passionate about full-stack development and am currently expanding 
+my skills in Data Structures, Algorithms, and web3.
+As a 19-year-old developer from India, I’m eager to contribute
+to open-source projects and find internship opportunities to 
+further hone my skills
+</p>
 
 
-## 🙌 About Me.
+---
 
-I'm a 19-year-old developer based in India, and I'm very passionate and dedicated to my work
-
-- 🌐 Check out my [website](https://dhanushkumar-portfolio.vercel.app/#) to learn more about me.
-- 🖥️ Check out [VSCode Configuration](https://github.com/dhanushkumar-amk/MY-VS-Code-settings) for development optimization.
-- 📖 I'm currently learning:  `Data Structures and Algorithms` |  `web3` 
+<h3> Contact me  : </h3>
 
 
-## 📦 Toolbox
+<p align="center">
+  🌐 <a href="https://dhanushkumar-portfolio.vercel.app/#" style="color: #1DA1F2; font-weight: bold; padding-right: 15px;">Website</a>
+  💼 <a href="https://www.linkedin.com/in/dhanushkumar-amk/" style="color: #0077B5; font-weight: bold; padding-right: 15px;">LinkedIn</a>
+  📧 <a href="mailto:dhanushkumaramk@gmail.com" style="color: #D44638; font-weight: bold; padding-right: 15px;">Email</a>
+  📸 <a href="https://www.instagram.com/dhanuxxsh._.07/" style="color: #E1306C; font-weight: bold; padding-right: 15px;">Instagram</a>
+</p>
 
-**Web Development:** `HTML` `CSS` `JavaScript` `Tailwind` `React` `Node js` `Express js`  `mongoose` 
 
-**Language:** `JavaScript` `Java`  `MongoDB` `Go` `TypeScript`
- 
-**IDE'S:**  `VS Code` `Intellij Idea` `mongoose shell` `Project IDX` 
+---
 
-**Others:**  `Ms Office` `Notion` `Canva` `Figma` `Git` `Github`
 
-## ✨ Fun Facts 
+<h3 style="text-decoration : underline"> My Tech Stack for development : </h3>
 
-- 🦖 Pokemon is my favorite anime.
-- 🫡 As a kid, I wanted to be an Gamer.
-- ⚡ Fun fact Bugs can cause big problems! A single misplaced semicolon took down the Mariner 1 space probe in 1964
+<p align="center">
+<strong>Web Development:</strong> <code>HTML</code>, <code>CSS</code>, <code>JavaScript</code>, <code>Tailwind CSS</code>, <code>React</code>, <code>Node.js</code>, <code>Express.js</code>, <code>Mongoose</code><br><br>
 
-## 📫 Contact
+<strong>Languages:</strong> <code>JavaScript</code>, <code>Java</code>, <code>MongoDB</code>, <code>Go</code>, <code>TypeScript</code><br><br>
 
--  For a quick response, DM me on [LinkedIn](https://www.linkedin.com/in/dhanushkumar-amk/). 
--  How to reach me: [dhanushkumaramk@gmail.com](mailto:dhanushkumaramk@gmail.com)
--  on [LeetCode](https://leetcode.com/u/dhanushkumar-amk/)
- 
- 
+<strong>IDEs & Tools:</strong> <code>VS Code</code>, <code>IntelliJ IDEA</code>, <code>Mongoose Shell</code>, <code>Project IDX</code><br><br>
 
-<h3 align="left">Stars</h3>
-<img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhanushkumar-amk&layout=compact&theme=" alt=dhanushkumar-amk />
+<strong>Other Tools:</strong> <code>MS Office</code>, <code>Notion</code>, <code>Canva</code>, <code>Figma</code>, <code>Git</code>, <code>GitHub</code>
+</p>
 
-<p><img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=dhanushkumar-amk&theme=" alt="dhanushkumar-amk" /></p>
+---
 
+<h3> Extra Information About Me and My Desktop   :</h3>
+
+1. 🖥️ **Check out my** [VSCode Configuration](https://github.com/dhanushkumar-amk/MY-VS-Code-settings) **for development optimization.**
+
+2. 📖 **I'm currently learning:** `Data Structures and Algorithms` | `devops`
+
+3. 🦖 **Pokemon** is my favorite anime.
+
+4. 🏗️ **I'm currently working on a project:** *Airbnb Clone*.
+
+5. 💻 **I love to learn coding and explore something new daily.**
+
+
+
+---
+
+
+<h3 align="center" style="font-weight: bold; color: #4CAF50;">Stars</h3>
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhanushkumar-amk&layout=compact&theme=" alt="dhanushkumar-amk" />
+</p>
+
+<p align="center">
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=dhanushkumar-amk&theme=" alt="dhanushkumar-amk" />
+</p>
 
 <div align="center">
-<!-- <a href="https://github.com/dhanushkumar-amk">
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=dhanushkumar-amk&theme=2077" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=dhanushkumar-amk&theme=2077" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=dhanushkumar-amk&theme=2077" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=dhanushkumar-amk&theme=2077" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dhanushkumar-amk&theme=2077" height="180em" />
-</div> -->
+  <a href="https://github.com/dhanushkumar-amk">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=dhanushkumar-amk&theme=2077" height="180em" style="margin-right: 15px;" />
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=dhanushkumar-amk&theme=2077" height="180em" style="margin-right: 15px;" />
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dhanushkumar-amk&theme=2077" height="180em" />
+  </a>
+</div>
 
