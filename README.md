@@ -39,7 +39,7 @@ further hone my skills
     
 <strong>Web Development:</strong> <code>HTML</code> <code>CSS</code> <code>JavaScript</code> <code>Tailwind CSS</code> <code>React</code> <code>Node.js</code> <code>Express.js</code> <code>Mongoose</code><br><br>
 
-<strong>Languages:</strong> <code>JavaScript</code> <code>Java</code> <code>MongoDB</code> <code>Go</code> <code>TypeScript</code><br><br>
+<strong>Languages:</strong> <code>JavaScript</code> <code>Java</code> <code>MongoDB</code> <code>Go</code> <code>TypeScript</code> <code>Docker</code> <code>Yaml</code>  <br><br>
 
 <strong>IDEs & Tools:</strong> <code>VS Code</code> <code>IntelliJ IDEA</code> <code>Mongoose Shell</code> <code>Project IDX</code><br><br>
 
