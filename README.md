@@ -43,7 +43,7 @@ further hone my skills
 
 <strong>IDEs & Tools:</strong> <code>VS Code</code> <code>IntelliJ IDEA</code> <code>Mongoose Shell</code> <code>Project IDX</code><br><br>
 
-<strong>Other Tools:</strong> <code>MS Office</code> <code>Notion</code> <code>Canva</code> <code>Figma</code> <code>Git</code> <code>GitHub</code> <code>Docker</code> <code>Yaml</code> 
+<strong>Other Tools:</strong> <code>MS Office</code> <code>Notion</code> <code>Canva</code> <code>Figma</code> <code>Git</code> <code>GitHub</code> <code>Docker</code> <code>Yaml</code> <code> Aws </code>
 </p>
 
 ---
