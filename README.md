@@ -5,7 +5,7 @@ DHANUSHKUMAR G
 
 ---
 
-### Self Introduction :
+### Self Introduction:
 <p style="font-weight: bold; text-align: justify;">
 Hello! I’m Dhanushkumar, a BCA student at NGM College with expertise in
 the MERN stack and over 50 completed projects in web development.
