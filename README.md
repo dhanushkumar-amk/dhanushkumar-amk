@@ -10,7 +10,7 @@ DHANUSHKUMAR G
 Hello! I’m Dhanushkumar, a BCA student at NGM College with expertise in
 the MERN stack and over 50 completed projects in web development.
 I’m passionate about full-stack development and am currently expanding 
-my skills in Data Structures, Algorithms, and web3.
+my skills in Data Structures, Algorithms, and devOps.
 As a 19-year-old developer from India, I’m eager to contribute
 to open-source projects and find internship opportunities to 
 further hone my skills
@@ -52,7 +52,7 @@ further hone my skills
 
 1. 🖥️ **Check out my** [VSCode Configuration](https://github.com/dhanushkumar-amk/MY-VS-Code-settings) **for development optimization.**
 
-2. 📖 **I'm currently learning:** `Data Structures and Algorithms` | `devops`
+2. 📖 **I'm currently learning:** `Data Structures and Algorithms` | `devOps`
 
 3. 🦖 **Pokemon** is my favorite anime.
 
