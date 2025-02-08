@@ -68,7 +68,7 @@ further hone my skills...
 
 <h3 align="center" style="font-weight: bold; color: #4CAF50;">Stars</h3>
 
-![Leetcode Stats](https://leetcode.com/u/dhanushkumar-amk/dhanushkumar?theme=dark)
+![Leetcode Stats](https://leetcode.com/u/dhanushkumar-amk/dhanushkumar-amk?theme=dark)
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhanushkumar-amk&layout=compact&theme=" alt="dhanushkumar-amk" />
 </p>
 
