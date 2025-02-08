@@ -15,7 +15,6 @@ As a 19-year-old developer from India, I’m eager to contribute
 to open-source projects and find internship opportunities to 
 further hone my skills...
 
-    .....
 </p>
 
 
@@ -69,7 +68,7 @@ further hone my skills...
 
 <h3 align="center" style="font-weight: bold; color: #4CAF50;">Stars</h3>
 
-<p align="center">
+![Leetcode Stats](https://leetcode.com/u/dhanushkumar-amk/dhanushkumar?theme=dark)
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhanushkumar-amk&layout=compact&theme=" alt="dhanushkumar-amk" />
 </p>
 
