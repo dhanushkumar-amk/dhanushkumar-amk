@@ -1,39 +1,28 @@
-<!-- 
+<!--
   GitHub Profile README – Dhanush Kumar
   Last updated: February 2026
 -->
 
 <div align="center">
   <h1>Dhanush Kumar</h1>
-  
+
   <p>
-    <strong>Full-Stack Developer</strong> • Backend & System Design • Cloud & DevOps • n8n Automation  
-    <strong>Strong focus on System Design (HLD/LLD)</strong> • Exploring AI • Web3 • High-Frequency Trading (HFT)
+    <strong>Full-Stack Developer</strong>  •  Backend & System Design Enthusiast  •  Cloud & DevOps  •  n8n Automation<br>
+    <strong>Deep focus on System Design (HLD / LLD)</strong>  •  Exploring AI Agents • Web3 • High-Frequency Trading (HFT)
   </p>
 
   <p>
-    <a href="https://dhanushkumaramkdev-portfolio.vercel.app/">
-      <img src="https://img.shields.io/badge/Portfolio-00D9FF?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio">
-    </a>
-    <a href="https://www.linkedin.com/in/dhanushkumar-amk/">
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-    </a>
-    <a href="mailto:dhanushkumaramk@gmail.com">
-      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-    </a>
-    <a href="https://github.com/dhanushkumar-amk">
-      <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-    </a>
-    <a href="https://leetcode.com/dhanushkumar-amk">
-      <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode">
-    </a>
-    <a href="https://codolio.com/profile/Dhanushkumaramk">
-      <img src="https://img.shields.io/badge/Codolio-4CAF50?style=for-the-badge&logo=code&logoColor=white" alt="Codolio">
-    </a>
+    <a href="https://dhanushkumaramkdev-portfolio.vercel.app/">Portfolio</a> •
+    <a href="https://www.linkedin.com/in/dhanushkumar-amk/">LinkedIn</a> •
+    <a href="mailto:dhanushkumaramk@gmail.com">Email</a> •
+    <a href="https://github.com/dhanushkumar-amk">GitHub</a> •
+    <a href="https://leetcode.com/dhanushkumar-amk">LeetCode</a> •
+    <a href="https://codolio.com/profile/Dhanushkumaramk">Codolio</a>
   </p>
 
   <p>
-    Coimbatore / Tiruppur / Dindigul, Tamil Nadu, India • +91 9345590559 • dhanushkumaramk@gmail.com
+    Coimbatore / Tiruppur / Dindigul, Tamil Nadu, India  
+    +91 9345590559  •  dhanushkumaramk@gmail.com
   </p>
 </div>
 
@@ -41,60 +30,76 @@
 
 ### About Me
 
-Passionate Full-Stack Developer with expertise in scalable backend systems, system design (HLD/LLD), microservices, cloud-native architecture, and emerging technologies. Specializing in MERN stack, Next.js, Java, Python, PHP, and AWS, I deliver reliable, high-performance solutions that solve real-world problems.
+Full-Stack developer passionate about building scalable, high-performance, and production-ready applications.  
+Strong foundation in MERN / Next.js stack, system design (HLD & LLD), microservices, cloud-native patterns, DevOps, and emerging technologies (AI agents, Web3, HFT concepts).
 
-- Currently building an offline-first payment system with Web3 integration.
-- Deepening expertise in AI agents, Web3, high-frequency trading systems (HFT), Docker, and AWS.
-- Completed 30+ full-stack projects • Solved 400+ LeetCode problems.
-- Rank #1 – GeeksforGeeks College Level Coding Score.
-- Actively publishing technical articles on Medium about system design, architecture patterns, and integrations.
-- Open to full-stack and backend roles in product-based companies.
+- 🔭 Currently working on **offline-first payment system** (Web3-integrated)
+- 🌱 Deepening knowledge in **AI agents**, **Web3**, **high-frequency trading systems**, Docker, AWS
+- 💼 Completed **30+ full-stack projects**
+- 📈 Solved **400+ LeetCode problems** • Rank #1 GeeksforGeeks College Coding Score
+- ✍️ Regularly publishing articles on **Medium** about system design, architecture patterns & integrations
+- 🎯 Open to full-stack, backend & system design roles in product-based companies
 
-**Languages:** English (Limited Working Proficiency), Tamil (Professional Working Proficiency).
+**Languages**  
+English (Limited Working Proficiency) • Tamil (Professional Working Proficiency)
 
 ---
 
-### Tech Stack
+### Skills
 
-#### Frontend
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
-![Shadcn/UI](https://img.shields.io/badge/Shadcn%2FUI-000000?style=flat-square&logo=react&logoColor=white)
+**Frontend**  
+- HTML5  
+- CSS3  
+- JavaScript  
+- React  
+- Next.js  
+- Tailwind CSS  
+- TypeScript  
+- Shadcn/UI  
 
-#### Backend & APIs
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=flat-square&logo=express&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-![Socket.IO](https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socket.io&logoColor=white)
+**Backend & APIs**  
+- Node.js  
+- Express.js  
+- PHP  
+- Socket.IO  
+- RESTful APIs  
+- GraphQL  
+- WebSockets  
+- Microservices  
 
-RESTful APIs • GraphQL • WebSockets • Microservices
+**Databases & Caching**  
+- MongoDB  
+- PostgreSQL  
+- Redis  
+- Supabase  
 
-#### Databases & Caching
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
+**DevOps & Cloud**  
+- AWS  
+- Docker  
+- Git  
+- Postman  
+- CI/CD Pipelines  
+- Nginx  
+- Reverse Proxy  
 
-#### DevOps & Cloud
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+**AI, Automation & Emerging Technologies**  
+- n8n  
+- AI Agents  
+- Prompt Engineering  
+- RAG  
+- Vector Databases  
+- Web3 (Ethereum / Solana)  
+- HFT Concepts  
+- OpenAI / Gemini integration  
 
-Postman • CI/CD Pipelines • Nginx
-
-#### AI, Automation & Emerging Tech
-AI Agents • n8n • Prompt Engineering • RAG • Vector Databases • Web3 (Ethereum/Solana) • HFT Concepts
-
-#### Languages & Other
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-
-Microservices • Data Structures & Algorithms (DSA) • System Design (HLD/LLD) • JWT • CI/CD
+**Languages & Core Concepts**  
+- Java (DSA focus)  
+- Python  
+- Data Structures & Algorithms (DSA)  
+- System Design (HLD / LLD)  
+- JWT Authentication  
+- Microservices Architecture  
+- CI/CD Practices  
 
 ---
 
@@ -109,56 +114,62 @@ India
 
 ---
 
-### Featured Projects (Selected from 30+ Full-Stack Projects)
+### Featured Projects (selected from 30+ full-stack works)
 
-**Offline-First Payment System (Web3-Integrated)**  
+**Offline-first Payment System (Web3-integrated)**  
 *In Progress – 2026*  
-
-- Secure offline payment flow with deferred blockchain synchronization.
-- AI-assisted fraud detection and mobile-first design.
+- Designed secure offline transaction flow with deferred blockchain synchronization  
+- Implemented AI-assisted real-time fraud detection and anomaly signaling  
+- Built mobile-first UI/UX with progressive offline support and local caching  
+- Focused on privacy-preserving architecture and eventual consistency model  
 
 **Tech:** Web3 • Node.js • MongoDB/Redis • AI Agents • React/Next.js
 
-**AI-Powered Cloud IDE (Inspired by Cursor)**  
-*2025 – 2026*  
-
-- AI-driven code completion, real-time suggestions, multi-language support, and deployment previews.
+**AI-Powered Cloud IDE (Cursor-inspired)**  
+*2025–2026*  
+- Developed AI-driven real-time code completion and contextual suggestions engine  
+- Created collaborative multi-language editing environment with live preview  
+- Integrated version control, terminal access and one-click deployment workflows  
+- Containerized backend services using Docker for scalable cloud execution  
 
 **Tech:** Next.js • TypeScript • AI Agents • Docker • AWS
 
-**Spotichat – Music Streaming + Real-Time Chat**  
-*August – October 2024*  
-
-- Real-time music streaming and chat app with microservices architecture.
-- WebSockets for communication; ~60% performance boost via Redis caching.
+**Spotichat – Music Streaming + Real-time Chat**  
+*Aug – Oct 2024*  
+- Architected scalable music streaming platform using microservices pattern  
+- Implemented real-time bidirectional chat using WebSockets (Socket.IO)  
+- Built secure admin dashboard with analytics, content management & user controls  
+- Achieved ~60% performance improvement via Redis caching, rate-limiting & DDoS protection  
 
 **Tech:** MERN • Microservices • Socket.IO • Docker • Redis • JWT
 
 **AI-Driven Financial Intelligence Tracker**  
-*February – July 2024*  
-
-- Gemini AI for receipt scanning and expense extraction.
-- Automated notifications with cron jobs and scalable backend.
+*Feb – Jul 2024*  
+- Integrated Gemini AI for automatic receipt scanning and expense categorization  
+- Developed cron-based automated reminder and notification system  
+- Created intuitive dashboard for adding, editing & visualizing financial records  
+- Ensured scalable backend architecture with efficient AI model integration  
 
 **Tech:** Next.js • TypeScript • Gemini AI • PostgreSQL
 
-View 30+ projects on [Portfolio](https://dhanushkumaramkdev-portfolio.vercel.app/) & [GitHub Repositories](https://github.com/dhanushkumar-amk?tab=repositories).
+→ View all **30+ projects** → [Portfolio](https://dhanushkumaramkdev-portfolio.vercel.app/) & [GitHub Repositories](https://github.com/dhanushkumar-amk?tab=repositories)
 
 ---
 
 ### Achievements & Certifications
 
-- Completed 30+ full-stack projects.
-- Solved 400+ LeetCode problems.
-- Rank #1 – GeeksforGeeks College Level Coding Score.
-- Regular Medium publisher on system design, architecture, and integrations → [Medium Profile](https://medium.com/@dhanushkumaramk) (update with actual link).
-- AWS Cloud Practitioner – GFG.
-- JavaScript Programming – GFG.
-- React.js Certificate – GFG.
-- Prompt Engineering – Simplilearn.
-- JavaScript Fundamentals.
-- Introduction to PHP.
-- Frontend Development.
+- Completed 30+ full-stack projects
+- Solved 400+ LeetCode problems
+- Rank #1 – GeeksforGeeks College Level Coding Score
+- Regular **Medium** publisher – articles on system design, architecture & integrations  
+  → [Medium Profile](https://medium.com/@dhanushkumaramk) *(update with real link)*
+- AWS Certified Cloud Practitioner – GFG
+- JavaScript Programming – GFG
+- React.js Certificate – GFG
+- Prompt Engineering – Simplilearn
+- JavaScript Fundamentals
+- Introduction to PHP
+- Frontend Development
 
 ---
 
@@ -181,18 +192,18 @@ View 30+ projects on [Portfolio](https://dhanushkumaramkdev-portfolio.vercel.app
 
 ### Education
 
-- **Master of Science in Information Technology**  
-  Hindusthan College of Arts and Science  
-  July 2025 – Present
+**M.Sc. Information Technology**  
+Hindusthan College of Arts and Science  
+July 2025 – Present
 
-- **Bachelor of Computer Applications (BCA)**  
-  Nallamuthu Gounder Mahalingam College  
-  CGPA: 7.92  
-  August 2022 – May 2025
+**BCA – Bachelor of Computer Applications**  
+Nallamuthu Gounder Mahalingam College  
+CGPA: 7.92  
+August 2022 – May 2025
 
-- **Computer Applications**  
-  NVMHS School  
-  January 2020 – April 2022
+**Computer Applications**  
+NVMHS School  
+January 2020 – April 2022
 
 ---
 
@@ -207,4 +218,4 @@ Open to full-stack/backend opportunities, system design discussions, AI/Web3 col
 - [Codolio](https://codolio.com/profile/Dhanushkumaramk)
 - [LeetCode](https://leetcode.com/dhanushkumar-amk)
 
-Looking forward to building impactful systems together.
+Looking forward to building impactful systems together 🚀
