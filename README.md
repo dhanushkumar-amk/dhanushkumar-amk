@@ -6,7 +6,7 @@
 
 ---
 
-## About
+## About Me
 
 Full-Stack developer focused on building scalable, production-ready applications. Strong foundation in MERN / Next.js, system design (HLD & LLD), microservices, cloud-native patterns, and DevOps. Currently exploring AI agents, Web3, and HFT concepts.
 
