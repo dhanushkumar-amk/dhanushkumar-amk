@@ -31,9 +31,7 @@ Full-Stack developer focused on building scalable, production-ready applications
 
 ## Featured Projects
 
-**Offline-First Payment System** *(In Progress · 2026)*  
-Secure offline transactions with deferred blockchain sync, AI-assisted fraud detection, and mobile-first progressive UI with local caching.  
-`Web3` `Node.js` `MongoDB` `Redis` `AI Agents` `React/Next.js`
+
 
 **AI-Powered Cloud IDE** *(2025–2026)*  
 Real-time AI code completion, collaborative multi-language editing, version control, terminal access, and one-click deployment. Containerized via Docker on AWS.  
