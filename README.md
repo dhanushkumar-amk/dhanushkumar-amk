@@ -25,7 +25,7 @@
 
 ---
 
-## `$ whoami`
+## `$ who ami`
 
 ```python
 dhanush = {
