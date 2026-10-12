@@ -14,7 +14,7 @@
 *Building intelligent systems that scale — from multi-agent pipelines to distributed microservices*
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dhanushkumar-amk/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio.dhanushkumaramk.dev/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://dhanushkumaramk.in/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dhanushkumar-amk)
 [![Codolio](https://img.shields.io/badge/Codolio-6366F1?style=for-the-badge&logoColor=white)](https://codolio.com/profile/Dhanushkumaramk)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dhanushkumaramk@gmail.com)
