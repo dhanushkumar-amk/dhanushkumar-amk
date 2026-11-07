@@ -6,7 +6,7 @@ PALETTE = ["#161b22", "#0e4429", "#006d32", "#26a641", "#39d353"]
 BOX, GAP, LEFT, TOP = 12, 3, 34, 28
 STEP = BOX + GAP
 
-data = json.load(open("data/contributions.json"))
+data = json.load(open("data/contributions.json", encoding="utf-8"))
 days = data["days"]
 first = date.fromisoformat(days[0]["date"])
 offset = (first.weekday() + 1) % 7  # GitHub weeks start on Sunday
@@ -49,5 +49,5 @@ svg = f'''<svg xmlns="http://www.w3.org/2000/svg" width="{W}" height="{H}" viewB
 {"".join(cells)}
 {footer}{legend}
 </svg>'''
-open("contrib-heatmap.svg", "w").write(svg)
+open("contrib-heatmap.svg", "w", encoding="utf-8").write(svg)
 print(f"wrote contrib-heatmap.svg ({W}x{H})")
