@@ -25,6 +25,17 @@
 
 ---
 
+</div>
+
+---
+
+<div align="center">
+  <h3><code>dhanush@github ~ $ ./contributions.sh</code></h3>
+  <img src="./contrib-heatmap.svg" width="860" />
+</div>
+
+---
+
 ## `$ who ami`
 
 ```python
